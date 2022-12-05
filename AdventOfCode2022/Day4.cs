@@ -1,6 +1,4 @@
-﻿using static System.Collections.Specialized.BitVector32;
-
-namespace AdventOfCode2022;
+﻿namespace AdventOfCode2022;
 
 internal class Day4
 {
