@@ -1,8 +1,4 @@
-﻿using System.Reflection.Metadata;
-using System.Runtime.CompilerServices;
-using System.Text;
-
-namespace AdventOfCode2022;
+﻿namespace AdventOfCode2022;
 
 internal static class Day5
 {

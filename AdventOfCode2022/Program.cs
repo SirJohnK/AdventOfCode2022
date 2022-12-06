@@ -23,5 +23,9 @@ internal class Program
         //Day 5
         Console.WriteLine($"Result Day 5 (Part 1): {Day5.ExecutePart1()}");
         Console.WriteLine($"Result Day 5 (Part 2): {Day5.ExecutePart2()}");
+
+        //Day 6
+        Console.WriteLine($"Result Day 6 (Part 1): {Day6.ExecutePart1()}");
+        Console.WriteLine($"Result Day 6 (Part 2): {Day6.ExecutePart2()}");
     }
 }
